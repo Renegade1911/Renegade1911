@@ -2,7 +2,7 @@
 - I’m currently learning Python, HTML, CSS
 
 Most of the projects in my repositories are side projects I've found online or in books, and I follow along to better my coding skills. 
-For those reading this, I hope this demonstrates my coding aptitude!
+For those reading this, I hope this demonstrates my coding aptitude. Or at the very least, my ability to follow instructions.
 Granted, I'm always learning and working to be better!
 - 📫 You can reach me at greg.dedicke@gmail.com or call me at (307)631-4311
 
